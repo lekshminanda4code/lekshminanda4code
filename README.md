@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hi there 👋 I'm Nandana Lekshmi
 
-<!--
-**lekshminanda4code/lekshminanda4code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Full Stack Developer  
+🎯 Passionate about building real-world projects using Java, Web, and modern frameworks  
+🌱 Currently learning and practicing through hands-on training  
+🔗 Connect with me: [LinkedIn](linkedin.com/in/nandana-lekshmi-933631212)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+- Java | JDBC | Collections | OOP
+- HTML | CSS | JavaScript | Bootstrap
+- MySQL | SQL
+- Git & GitHub | Eclipse | VS Code
+
+---
+
+### 📁 Featured Projects
+- **Banking System** – Simulates banking functions with OOP concepts
+- **Restaurant Ordering System** – Java GUI application for placing and managing food orders
+
+More projects coming soon...
+
+---
+
+### 🌱 Currently Learning
+- Spring Boot & REST APIs
+- Responsive Web Design
+
+---
+
+📫 *Let's grow together in the coding journey!*
+
